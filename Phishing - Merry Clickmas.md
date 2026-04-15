@@ -106,12 +106,12 @@
 
 ### Attack Chain Summary
 
-### Reconnaissance: We identified a trusted partner (Flying Deer) to make the phishing email more believable
-### Infrastructure: We deployed a credential harvesting page running on port 8000
-### Weaponization: We crafted a convincing phishing email using SET
-### Delivery: We sent the email by spoofing a trusted sender via SMTP
-### Exploitation: The target user submitted their credentials on the fake login page
-### Actions on Objective: We used the captured credentials to access the email system through credential reuse
+### Reconnaissance:  We identified a trusted partner (Flying Deer) to make the phishing email more believable
+### Infrastructure:  We deployed a credential harvesting page running on port 8000
+### Weaponization:   We crafted a convincing phishing email using SET
+### Delivery:        We sent the email by spoofing a trusted sender via SMTP
+### Exploitation:    The target user submitted their credentials on the fake login page
+### Actions Impact:  We used the captured credentials to access the email system through credential reuse
 <img width="1624" height="510" alt="image" src="https://github.com/user-attachments/assets/fc494dd0-d658-422b-8394-f81ec600c23f" />
 
 ## Congratulations !!! We have Successfully Completed the Room
