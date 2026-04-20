@@ -8,8 +8,6 @@
 
 ### We are going to assume HopSec has breached the TBFC QA environment and locked access to tbfc-devqa01, stopping all SOC-mas pipeline testing.  
 ### We suppose the server is being altered into a malicious EAST-mas node, making recovery urgent.
-
-
 ### • We are going to assume HopSec has taken unauthorized control of the QA environment.  
 ### • We suppose system operations are frozen due to the breach.  
 ### • We do this where we must trace HopSec activity and regain access to tbfc-devqa01.  
