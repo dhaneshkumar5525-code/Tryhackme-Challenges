@@ -1,6 +1,6 @@
 # Hi, I'm a Cybersecurity Analyst 
 ### Focused on analyzing threats, demonstrating attack scenarios, and conducting security investigations.
-### CyberChef - Hoperation Save McSkidy
+### CyberChef - Hoperation Save McSkidy.
 ### The story continues, and the elves mount a rescue and will try to breach the Quantum Fortress's defenses and free McSkidy.
 <img width="1245" height="448" alt="image" src="https://github.com/user-attachments/assets/7b2dba3b-0650-45a7-9fd2-01f2e1c0ea1f" />
 
