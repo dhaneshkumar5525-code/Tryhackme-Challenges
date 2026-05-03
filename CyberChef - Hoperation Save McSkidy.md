@@ -54,10 +54,32 @@
 <img width="592" height="570" alt="image" src="https://github.com/user-attachments/assets/e32c111d-b551-4a36-b115-d4f01cd7ac30" />
 
 ## Task 3 First Lock - Outer Gate
+### start the target machine, give it a few minutes to boot up, and then, from the AttackBox, you can access the web app at http://10.67.146.57:8080
+<img width="1177" height="797" alt="image" src="https://github.com/user-attachments/assets/ca081bee-52d9-406b-a898-6186e50ad24d" />
 
+### Lets help Mcskidy to escape my unlocking the gates
+### What is the password for the first lock?
 
+### Naviagte to the outer gate
+<img width="1167" height="638" alt="image" src="https://github.com/user-attachments/assets/45872f3d-018e-4d90-8eb9-b157a9f7bbe3" />
 
+<img width="1175" height="697" alt="image" src="https://github.com/user-attachments/assets/9c6e16ba-9a79-4243-bec5-f58591fdeba6" />
 
+### We can see the bunnygram encoding
+### Right click inspect
+<img width="522" height="626" alt="image" src="https://github.com/user-attachments/assets/5f3c462b-ab80-4946-8a2a-2bbc2802ebb8" />
+
+### Select network tab and refresh the page
+<img width="1176" height="646" alt="image" src="https://github.com/user-attachments/assets/1cfe7aba-7c9a-4d0e-a499-d31ea29aa1a5" />
+
+### Responses
+<img width="1179" height="280" alt="image" src="https://github.com/user-attachments/assets/12c2681c-5e4f-491d-bb22-ee814d24c2d2" />
+
+### Lets decode the encoding using cyberchef
+<img width="1179" height="627" alt="image" src="https://github.com/user-attachments/assets/df1f3cb9-65ab-4b5d-a597-253c5ae1890c" />
+
+### The decoded message is All hail King Malhare!
+### Lets figure out the username and the password
 
 
 
