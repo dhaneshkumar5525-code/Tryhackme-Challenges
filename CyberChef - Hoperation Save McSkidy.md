@@ -79,17 +79,37 @@
 <img width="1179" height="627" alt="image" src="https://github.com/user-attachments/assets/df1f3cb9-65ab-4b5d-a597-253c5ae1890c" />
 
 ### The decoded message is All hail King Malhare!
-### Lets figure out the username and the password
+### Lets figure out the username and the password, Right click inspect > Debugger > ststic > Js app to see the the logic
+<img width="1176" height="759" alt="image" src="https://github.com/user-attachments/assets/d79a00e9-ea1f-4084-a184-267444f13953" />
 
+### Search for the User login logic
+### We can see userok= atob(usr) === guardName;
+### a to b is a string in java script that converts guardname into base64 
+### For password, we can see the logic Level 1 = From base64 and Level 2 = Double from base64
+<img width="1177" height="378" alt="image" src="https://github.com/user-attachments/assets/89f0961f-da6a-4d2a-bbfd-e6938b1d7d1a" />
 
+### Lets convert the guardname into base64 using cyberchef
+<img width="1180" height="495" alt="image" src="https://github.com/user-attachments/assets/bed603e3-b40c-42ff-af9c-cf7add2f005d" />
 
+### Now for the password navigate to the network tab and we can observe the magic question: What is the password for this level?<img width="1176" height="709" alt="image" src="https://github.com/user-attachments/assets/7eaea99d-b312-417f-8d59-4f405e224a7f" />
 
+### Convert in the base64
+<img width="1176" height="492" alt="image" src="https://github.com/user-attachments/assets/1b175d01-6e17-4ab2-bf98-8857338e4124" />
 
+### This encoded message is sent to the bunnygram and received a different encoded message
+<img width="1176" height="462" alt="image" src="https://github.com/user-attachments/assets/9eb6d4b6-c06f-41ab-bd17-3231373e70eb" />
 
+### lets decode the encoded message received 
+<img width="1177" height="633" alt="image" src="https://github.com/user-attachments/assets/fa805014-a2b5-41e4-9984-463cecef0d98" />
 
+### Decode again
+<img width="1180" height="492" alt="image" src="https://github.com/user-attachments/assets/8edf0b99-189a-4cf8-9997-f108c4928be8" />
 
+### We have received the password. Now enter the username and the password
+<img width="1151" height="254" alt="image" src="https://github.com/user-attachments/assets/22b3e0f0-26ed-4e91-a328-80e3bc0ff973" />
 
-
+### We have unlocked the outer gate
+<img width="915" height="755" alt="image" src="https://github.com/user-attachments/assets/57ccbccf-4695-43e8-8405-a6139883af02" />
 
 
 
