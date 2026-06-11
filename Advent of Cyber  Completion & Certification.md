@@ -32,6 +32,10 @@
 
 ## Thank you for following along, and happy learning!
 
+# 💡 My Journey's Takeaway
+
+# "True security is not measured by the certificates we earn, but by the community we protect. Every piece of knowledge we share today builds a safer digital world for tomorrow."
+
 
 
 
