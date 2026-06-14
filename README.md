@@ -1,8 +1,10 @@
 # 🛡️ Advanced Cybersecurity Portfolio & Technical Write-ups
 
-### https://tryhackme.com/p/frankenstein75
+### Tryhackme: https://tryhackme.com/p/frankenstein75
 <img width="1905" height="508" alt="image" src="https://github.com/user-attachments/assets/1d3c436b-6aef-47bc-92c9-e31437be54ce" />
 
+### Linkedin: https://www.linkedin.com/in/dhanesh-g/
+### Gmail: dhaneshkumarcyber@gmail.com
 
 Welcome to my technical cybersecurity repository. This space serves as live documentation of my practical experience in **Threat Hunting, Incident Response, Malware Analysis, and Cloud Security**. 
 
