@@ -1,10 +1,10 @@
 # 🛡️ Advanced Cybersecurity Portfolio & Technical Write-ups
 
-### Tryhackme: https://tryhackme.com/p/frankenstein75
-<img width="1905" height="508" alt="image" src="https://github.com/user-attachments/assets/1d3c436b-6aef-47bc-92c9-e31437be54ce" />
-
+📬 **Connect Me:**  
 ### Linkedin: https://www.linkedin.com/in/dhanesh-g/
 ### Gmail: dhaneshkumarcyber@gmail.com
+### Tryhackme: https://tryhackme.com/p/frankenstein75
+<img width="1905" height="508" alt="image" src="https://github.com/user-attachments/assets/1d3c436b-6aef-47bc-92c9-e31437be54ce" />
 
 Welcome to my technical cybersecurity repository. This space serves as live documentation of my practical experience in **Threat Hunting, Incident Response, Malware Analysis, and Cloud Security**. 
 
@@ -14,9 +14,6 @@ Rather than just capturing flags, these write-ups focus heavily on **methodology
 
 ## 📊 Portfolio Milestone Tracker
 * **TryHackMe Write-ups:** 🟢 38 / 50+ Completed (Updated Weekly)
-* **SOC Incident Scenarios:** 🟡 6 / 20+ Completed (Updated Weekly)
-* **Security Awareness App:** 💻 Prototype Complete 
-
 ---
 
 ## 📁 Technical Framework & Domain Matrix
