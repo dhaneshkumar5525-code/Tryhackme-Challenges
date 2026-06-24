@@ -52,10 +52,11 @@
 ### Answer
 <img width="1280" height="158" alt="image" src="https://github.com/user-attachments/assets/d993c252-d5e2-4a90-bb39-8f66b34646f3" />
 
-### Congratulations !!! We have Successfully Completed the Room
+## Congratulations !!! We have Successfully Completed the Room
 <img width="1461" height="322" alt="image" src="https://github.com/user-attachments/assets/8ad7de4f-a0d0-4b58-ab1c-2cba13be2ac0" />
 
-
+### We are getting recognized
+<img width="1920" height="542" alt="image" src="https://github.com/user-attachments/assets/178e109f-a045-4831-b7f0-2e6d66d99129" />
 
 
 
