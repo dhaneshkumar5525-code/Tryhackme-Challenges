@@ -9,8 +9,6 @@
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/2fd87e3e-f4ba-46f5-8838-1276791fef61" />
 
 ### Turn on the target machine - 10.49.175.14 
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d1074e2a-1ef2-4ad2-a1f6-175e510e99e5" />
-
 ### Lets perform the nmap scan and save the file as scan2.txt. Enter the command 
 ### nmap -sC -sV -oN scan2.txt 10.49.175.14 
 <img width="1293" height="478" alt="image" src="https://github.com/user-attachments/assets/e8a4cc1f-8a10-4759-a8ef-5c74cc517b1d" />
@@ -107,6 +105,13 @@
 
 ### fleeb juice
 <img width="1289" height="219" alt="image" src="https://github.com/user-attachments/assets/f607658d-420c-4ba8-a9e1-1f4c57a464ae" />
+
+<img width="640" height="357" alt="image" src="https://github.com/user-attachments/assets/242b7e17-e203-4933-9f0b-994fe41993d5" />
+
+
+### Finally we have all our secret ingredients. We work out the potion and finally transform Rick back to a human from a pickle !
+<img width="617" height="356" alt="image" src="https://github.com/user-attachments/assets/dcb2acc4-fda7-4fad-8201-6253cb81e467" />
+
 
 ## Congratulations !!! We have Successfully Completed the Room.
 <img width="1595" height="204" alt="image" src="https://github.com/user-attachments/assets/3f38d286-6e6e-4aed-a5f1-1c83fd0e331a" />
