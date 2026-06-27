@@ -29,7 +29,7 @@
 
 ### The site is powered by the CMS made simple version 2.2.8
 
-### Due to the limited time target machine is clsoed. Lets restart it again
+### Due to the limited time target machine is closed. Lets restart it again
 ### Target machine - 10.48.190.184
 <img width="1299" height="273" alt="image" src="https://github.com/user-attachments/assets/c7efa28a-1958-4406-8849-e2065792816b" />
 
