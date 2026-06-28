@@ -4,6 +4,7 @@
 
 ### Compiled
 ### Strings can only help you so far.
+### This is going to be shortest ctf in the entire series
 ## Task 1 : 
 ### Download the task file and get started. The binary can also be found in the AttackBox inside the /root/Rooms/Compiled/ directory.
 ### We dont need Attack box for this task
